@@ -2,8 +2,8 @@
 
 Aplikasi akademik berbasis terminal untuk tugas OOP Python.
 
-**Nama:** (isi nama)  
-**NIM:** (isi NIM)
+**Nama:** (Rahma)  
+**NIM:** (14012500095)
 
 ## Cara menjalankan
 ```
@@ -11,7 +11,7 @@ python main.py
 ```
 
 ## Data contoh
-- Mahasiswa: Andi (NIM 2024001, Reguler), Sinta (NIM 2024002, Beasiswa)
+- Mahasiswa: Tira (NIM 14012500003, Reguler), Rahma (NIM 14012500095, Beasiswa)
 - 8 mata kuliah (Teori, Praktikum, Proyek)
 
 ## Fitur
